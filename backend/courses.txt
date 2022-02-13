@@ -1,0 +1,190 @@
+Ancient History BA V110 70
+Ancient Languages BA 0R8U 74
+Ancient Languages with a Year Abroad BA RR8U 74
+Ancient World BA Q805 70
+Ancient World with a Year Abroad BA Q806 70
+Anthropology BSc L602 63
+Anthropology with a Year Abroad BSc L603 63
+Applied Medical Sciences BSc 9N53 80
+Archaeology BA F400 69
+Archaeology BSc F402 69
+Archaeology and Anthropology BA FL46 69
+Archaeology of Egypt and Sudan BA F424 69
+Archaeology with a Placement Year BA F403 69
+Archaeology with a Year Abroad BA F401 69
+Architectural and Interdisciplinary Studies BSc K102 55
+Architectural and Interdisciplinary Studies with a Year Abroad BSc K101 55
+Architecture BSc K100 55
+Architecture MSci K103 55
+Arts and Sciences BASc Y000 56
+Arts and Sciences with Study Abroad BASc Y001 56
+Astrophysics BSc F510 82
+Astrophysics MSci F511 82
+Audiology BSc B610 80
+Bachelor of Law (UCL) and Bachelor of Law (HKU) LLB M103 75
+Biochemical Engineering BEng H811 66
+Biochemical Engineering MEng H813 66
+Biochemistry BSc C700 59
+Biochemistry MSci CC70 59
+Biomedical Engineering BEng HC60 66
+Biomedical Engineering MEng H160 66
+Biological Sciences BSc C900 59
+Biological Sciences MSci C901 59
+Biomedical Sciences BSc B990 59
+Bioprocessing of New Medicines (Business and Management) BSc CN72 66
+Bioprocessing of New Medicines (Science and Engineering) BSc B190 66
+Cancer Biomedicine BSc B800 80
+Chemical Engineering BEng H800 66
+Chemical Engineering MEng H801 66
+Chemistry BSc F100 82
+Chemistry MSci F101 82
+Chemistry (International Programme) MSci F105 82
+Chemistry with Management Studies BSc F1N2 82
+Chemistry with Management Studies MSci F1NF 82
+Chemistry with Mathematics BSc F1G1 82
+Chemistry with Mathematics MSci F1GC 82
+Civil Engineering BEng H200 66
+Civil Engineering MEng H202 66
+Classical Archaeology and Classical Civilisation BA VQ48 69
+Classics BA Q800 70
+Classics with Study Abroad BA Q801 70
+Comparative Literature BA Q200 67
+Comparative Literature with a Year Abroad BA Q201 67
+Computer Science BSc G400 61
+Computer Science MEng G402 61
+Crime and Security Science BSc L311 63
+Data Science BSc G303 77
+Earth Sciences BSc F603 82
+Earth Sciences MSci F604 82
+Earth Sciences (International Programme) MSci F605 82
+Economics BSc (Econ) L100 63
+Economics with a Placement Year BSc (Econ) L102 63
+Economics with a Year Abroad BSc (Econ) L101 63
+Economics and Business with East European Studies BA L1R7 63
+Economics and Business with East European Studies with a Year Abroad BA L1RR 63
+Economics and Geography BSc (Econ) LL17 63
+Economics and Statistics BSc (Econ) LG13 77
+Education Studies BA X300 64
+Electronic and Electrical Engineering BEng H600 66
+Electronic and Electrical Engineering MEng H601 66
+Engineering and Architectural Design MEng KH11 55
+English BA Q300 67
+English and German Law Dual Degree LLB M146 75
+Environmental Geoscience BSc F644 82
+Environmental Geoscience MSci F645 82
+European Social and Political Studies BA R990 63
+European Social and Political Studies: Dual Degree BA R992 63
+Experimental Linguistics BSc Q100 84
+Fine Art BA W100 68
+Fine Art BFA W101 68
+Geography BA L700 63
+Geography BSc F800 63
+Geography (International Programme) BA L701 63
+Geography (International Programme) BSc F801 63
+Geology BSc F600 82
+Geology MSci F601 82
+Geophysics BSc F660 82
+Geophysics MSci F663 82
+Global Humanitarian Studies BSc LL80 63
+History BA V100 70
+History (Central and East European) and Jewish Studies with Year Abroad BA VV23 74
+History and Philosophy of Science BSc V550 70
+History and Philosophy of Science with Study Abroad BSc V551 70
+History and Politics of the Americas BA T7V1 70
+History and Politics of the Americas with a Year Abroad BA T7V2 70
+History, Politics and Economics BA 4P47 70
+History of Art BA V350 68
+History of Art, Materials and Technology BA V3F2 68
+History with a European Language BA V1R9 70
+History with a Year Abroad BA V104 70
+Human Sciences BSc BCL0 59
+Human Sciences and Evolution MSci BCL1 59
+Hungarian and East European Studies BA R783 74
+Infection and Immunity BSc C550 59
+Information Management for Business BSc P1N1 60
+International Social and Political Studies BA LV01 63
+Language and Culture BA R991 72
+Law LLB M100 75
+Law with French Law LLB M141 75
+Law with German Law LLB M142 75
+Linguistics BA Q100 84
+Linguistics (International Programme) BA Q101 84
+Management Science BSc N991 60
+Management Science MSci N990 60
+Mathematical Computation MEng G430 61
+Mathematics BSc G100 77
+Mathematics MSci G107 77
+Mathematics and Physics BSc GF13 77
+Mathematics and Physics MSci GF1H 77
+Mathematics and Statistical Science BSc GG13 77
+Mathematics and Statistical Science MSci GGC3 77
+Mathematics with Economics BSc G1L1 77
+Mathematics with Economics MSci G1LC 77
+Mathematics with Management Studies BSc G1N2 77
+Mathematics with Management Studies MSci G1NF 77
+Mathematics with Mathematical Physics BSc G1F3 77
+Mathematics with Mathematical Physics MSci G1FH 77
+Mathematics with Modern Languages BSc G1T9 77
+Mathematics with Modern Languages MSci G1TX 77
+Media BA P300 78
+Medical Physics MSci F350 82
+Medical Innovation and Enterprise BSc B980 80
+Medical Innovation and Enterprise MSci B981 80
+Medical Sciences and Engineering BSc AH11 80
+Medical Sciences and Engineering MSci HA11 80
+Medicinal Chemistry BSc F150 82
+Medicinal Chemistry MSci F153 82
+Medicine MBBS BSc A100 80
+Natural Sciences BSc CFG0 82
+Natural Sciences MSci FGC0 82
+Neuroscience BSc B140 59
+Neuroscience MSci B141 59
+Nutrition and Medical Sciences BSc B400 80
+Pharmacology BSc B210 59
+Pharmacology MSci B211 59
+Pharmacy MPharm B230 80
+Training MPharm B231 80
+Philosophy BA V500 70
+Philosophy and Economics BA VL51 70
+Philosophy and Greek BA VQ57 70
+Philosophy and History of Art BA VV53 70
+Philosophy, Politics and Economics BSc 4V86 63
+Physics BSc F300 82
+Physics MSci F303 82
+Physics with Medical Physics BSc F351 82
+Politics and International Relations BSc L251 63
+Politics, Sociology and East European Studies BA LR27 63
+Politics, Sociology and East European Studies with a Year Abroad BA LRF7 63
+Population Health BSc 170C 80
+Professional Policing BSc L312 63
+Project Management for Construction BSc K221 55
+Project Management for Construction (Sandwich) BSc K222 55
+Psychology BSc C800 84
+Psychology MSci C810 84
+Psychology and Language Sciences BSc CB86 84
+Psychology and Language Sciences MSci CB87 84
+Psychology with Education BSc C801 84
+Scandinavian Studies BA R600 73
+Scandinavian Studies and English BA R6Q3 73
+Scandinavian Studies and History BA RV6C 74
+Scandinavian Studies and History of Art BA R6V3 74
+Scandinavian Studies and Latin BA R6Q6 74
+Scandinavian Studies with Film Studies BA R6P3 74
+Scandinavian Studies with Management Studies BA R6N2 74
+Security and Crime Science BSc L311 63
+Social Sciences BSc L300 63
+Social Sciences with Data Science BSc LG33 63
+Sociology BSc L301 63
+Sociology and Politics of Science BSc L391 70
+Sport and Exercise Medical Sciences BSc BC16 80
+Statistical Science (International Programme) MSci G305 77
+Statistics BSc G300 77
+Statistics and Management for Business BSc GN32 77
+Statistics, Economics and Finance BSc GLN0 77
+Statistics, Economics and a Language BSc GLR0 77
+Theoretical Physics BSc F340 82
+Theoretical Physics MSci F345 82
+Urban Planning and Real Estate BSc K430 55
+Urban Planning, Design and Management BSc K421 55
+Urban Studies BSc K440 55
+Viking and Old Norse Studies BA R691 74
