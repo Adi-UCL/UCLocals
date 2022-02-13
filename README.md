@@ -1,5 +1,5 @@
 # UCLocals
 Porticode 5.0 Project
 1. Backend - This operates using a MariaDB database administrated via PHPMyAdmin. An SQL dump file is included to help set up the sample student data on your localhost. In order to manage web requests that need to query the database, Python was used with Flask. The Python implements the logic to query the database with searches, insertions, and updates, while using Flask enables the Python code to be executed through web requests. The intention is that the frontend (once developed beyond a prototype) will be able to utilize the Python-based web request API.
-2. Frontend Login
-3. Frontend Home
+2. Frontend Login - Used Next JS(React JS framework) to create a frontend for the authentitication and registeration page. To run this webpage, you need to download the node modules by exectuting this command in the terminal : npm install. To display the webpage in your computer, you need to use the command: npm run dev. Then you would need to open your web browser and type in: localhost:(here you input your port number). The Authentication works but when deployed for production, it needs to be connected with backend(flask) which will update the authorisation state and then this will be checked again after the user registers their societies which has not been implemented.
+3. Frontend Home - This was a wireframe of the website and the links work but the pages and their functionality haven't been implemented due to time constraint. 
